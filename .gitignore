@@ -1,0 +1,7 @@
+*.iml
+*.env
+.idea
+node_modules/
+.DS_STORE
+vendor
+mkdocs.yml
